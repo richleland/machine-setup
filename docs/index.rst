@@ -38,6 +38,7 @@ Symlinks
 * .hgrc -> config-files/hgrc
 * .ipython/ipythonrc -> /Users/rleland/config-files/ipythonrc
 * .irbrc -> config-files/irbrc
+* .ssh/config -> /Users/rleland/config-files/ssh_config
 * .vimrc -> .vim/vimrc
 
 Software
