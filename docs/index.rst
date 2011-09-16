@@ -49,6 +49,7 @@ Software
 * Alfred
 * Billings
 * Charles
+* Cloud
 * Divvy
 * Dropbox
 * Echofon
@@ -66,12 +67,16 @@ Software
 * MindNode Pro
 * MySQLWorkbench
 * OmniGraffle Professional 5
+* Patterns
 * PeepOpen
 * pgAdmin3
+* Reeder
 * Renamer
+* Sidestep
 * Skitch
 * TextMate
 * Textual
+* Tunnelblick
 * Transmit
 * Xcode
 
